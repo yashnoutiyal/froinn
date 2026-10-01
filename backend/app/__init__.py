@@ -1,0 +1,1 @@
+"""Frontech logistics backend application."""

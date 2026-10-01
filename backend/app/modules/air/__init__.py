@@ -1,0 +1,1 @@
+"""Air freight module placeholder."""

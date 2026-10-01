@@ -1,0 +1,1 @@
+"""Sea freight module placeholder."""
